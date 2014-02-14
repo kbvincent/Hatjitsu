@@ -3,7 +3,7 @@ module.exports = {
   development: {
     hostname: "localhost",
     port: 80,
-    packAssets: false
+    packAssets: true
   },
   production: {
     hostname: "hat.jit.su",
