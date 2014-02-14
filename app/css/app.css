@@ -57,7 +57,7 @@ h2 {
     position: relative;
     z-index: 3;
     padding-top: 8px;
-    padding-bottom: 67px; /* allow for absolutely positioned mountain */
+    padding-bottom: 10px; /* allow for absolutely positioned mountain */
     zoom: 1;
     border: 1px solid #B9AAA7;
     border-width: 0 1px;
@@ -164,7 +164,7 @@ h2 {
     overflow: hidden;
     text-align: center;
     position: relative;
-    border: 1px solid #b9aaa7;
+  
     border-width: 0 1px;
   }
 
@@ -178,8 +178,6 @@ h2 {
     padding: 0 8px;
     position: relative;
     overflow: hidden;
-    border: 1px solid #b9aaa7;
-    border-width: 0 1px;
   }
     .lobby p,
     .lobby .subheading,
@@ -191,8 +189,6 @@ h2 {
     overflow: hidden;
     padding: 1em 8px 0;
     position: relative;
-    border: 1px solid #b9aaa7;
-    border-width: 0 1px;
   }
   .cardPanel {
     padding: 0 8px;
