@@ -29,7 +29,7 @@ a:focus {
 }
 
 h2 {
-
+ padding-left: 18px;
 }
 /*
   Body
@@ -239,6 +239,7 @@ h2 {
     width: 100%;
     display: block;
     text-align: left;
+    padding-left: 12px;
   }
   .row:before,
   .row:after {
