@@ -235,7 +235,6 @@ a:focus {
     width: 100%;
     display: block;
     text-align: left;
-    padding-left: 8px;
   }
   .row:before,
   .row:after {
