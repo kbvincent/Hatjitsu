@@ -27,6 +27,10 @@ a:hover,
 a:focus {
   color: rgb(189, 27, 27);
 }
+
+h2 {
+
+}
 /*
   Body
 
@@ -44,9 +48,6 @@ a:focus {
          -o-transition: .4s background-color ease;
             transition: .4s background-color ease;
   }
-  .body--green { background-color: #c5c2ad; }
-  .body--yellow { background-color: #c5bca1; }
-  .body--red { background-color: #d1bdad; }
 
 /*
   Header
